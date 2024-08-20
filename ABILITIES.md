@@ -71,6 +71,7 @@ This ability has two "modes."\To place a portal, you will have to stand still an
 This ability allows you to regenerate upto 5 hearts.
 > [!NOTE]
 > [Ring of Vitality](Baubles.md) can enhance this ability, regenerating upto 10 hearts!
+
 > [!WARNING]
 > This Cannot be used in Dungeons and Boss Arenas.
 
