@@ -26,6 +26,7 @@ Using Transcale while being small will cause you to Return to your original size
 This ability will summon a square shield around you. The edges will be open so you can escape from the edges. This shield will despawn after walking away from it.
 > [!NOTE]
 > Breaking the Pots will still have a chance of dropping orbs and Shards.
+
 > [!WARNING]
 > This does not work in dungeons.
 
