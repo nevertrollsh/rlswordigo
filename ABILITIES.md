@@ -61,7 +61,7 @@ This ability creates 2 golden boulders on the player's sides and ejects them wit
 
 ## 8. SafeChorus
 This ability teleports you to your previous ground location 
-> [!INFO]
+> [!NOTE]
 > A ground location means a checkpoint, For example: Portals. 
 
 ## 9. TP-Portals
