@@ -54,12 +54,13 @@ Similar to the dash, it will dash in a direction however with a spin animation a
 This ability creates 2 golden boulders on the player's sides and ejects them with 700 velocity, with them dealing damage to enemies. 
 > [!NOTE]
 > This is the ONLY Damage dealing ability as of now.
+
 > [!WARNING]
 > You can only use this Ability after you've done the Golden Boulder quest.
 
 ## 8. SafeChorus
 This ability teleports you to your previous ground location 
-> [Confusion help]
+> [!INFO]
 > A ground location means a checkpoint, For example: Portals. 
 
 ## 9. TP-Portals
