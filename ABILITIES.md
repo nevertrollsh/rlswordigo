@@ -24,7 +24,7 @@ Using Transcale while being normal size will size you down.
 Using Transcale while being small will cause you to Return to your original size.
 ## 2. Pot Shield
 This ability will summon a square shield around you. The edges will be open so you can escape from the edges. This shield will despawn after walking away from it.
-> [!INFO]
+> [!NOTE]
 > Breaking the Pots will still have a chance of dropping orbs and Shards.
 > [!WARNING]
 > This does not work in dungeons.
@@ -51,7 +51,7 @@ Similar to the dash, it will dash in a direction however with a spin animation a
 
 ## 7. Golden Slammer
 This ability creates 2 golden boulders on the player's sides and ejects them with 700 velocity, with them dealing damage to enemies. 
-> [!INFO]
+> [!NOTE]
 > This is the ONLY Damage dealing ability as of now.
 > [!WARNING]
 > You can only use this Ability after you've done the Golden Boulder quest.
