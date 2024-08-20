@@ -36,7 +36,7 @@ This ability can be toggled on and off.
 The Ability will cause the screen to zoom out through the whole map.
 # DEACTIVATE
 Using the Ability again wll return the screen to the player.
-> [!INFO]
+> [!NOTE]
 > This will not enlighten the screen at night. 
 ## 4. Immunity
 This ability gives you damage immunity for 5 seconds.
