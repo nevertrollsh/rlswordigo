@@ -8,28 +8,33 @@ To use your abilities, you will need:
 - Dragons Grasp
 - Fire Trinket
 - Shadow Trinket
-- Ice Trinket (Optional)
+- Ice Trinket
 
 ## Controls
-To activate an ability, one must choose the correct number and use Dragons Grasp with Shadow Trinket to activate it.
-- Use Dragons Grasp with Fire Trinket to increase number
-- Use Dragons Grasp with Ice Trinket to decrease number
-- Use Dragons Grasp with Shadow Trinket at the correct number to activate the ability
-
+To use the Ability Feature, The Player must use 3 trinkets, each one having its own purpose, the Abilities feature can only be used with dragons grasp.
+-
+Use the Fire Trinket to Increase the Skill Number.
+Use the Ice Trinket to Decrease the Skill Number. 
+Use the Shadow Trinket to execute (Use) the Ability. 
 # Ability List
 ## 1. Transcale.
-## Mode 1
-Mode 1 of Transcale scales you to 0.1 size.
-## Mode 2
-Mode 2 of Transcale scales you back to your normal size (1.0).
-
+## Mini Size
+Using Transcale while being normal size will size you down.
+## Resize
+Using Transcale while being small will cause you to Return to your original size.
 ## 2. Pot Shield
 This ability will summon a square shield around you. The edges will be open so you can escape from the edges. This shield will despawn after walking away from it.
+> [Tip]
+> Breaking the Pots will still have a chance of dropping orbs and Shards.
+> [Warning]
+> This does not work in dungeons.
 
 ## 3. All Seeing Eye
-This ability is a "toggle" ability similar to ability 2. You can enable and disable it.
-
-After enabling this ability, your FOV will become wide similar to the FOV in the Swordigo Mod Menu. You will be able to see everything.
+This ability can be toggled on and off.
+# ACTIVATE
+The Ability will cause the screen to zoom out through the whole map.
+# DEACTIVATE
+Using the Ability again wll return the screen to the player.
 
 ## 4. Immunity
 This ability gives you damage immunity for 5 seconds.
@@ -38,17 +43,23 @@ This ability gives you damage immunity for 5 seconds.
 
 ## 5. Dash
 This ability will allow you to "dash" in the direction the player is looking at.
+> [!WARNING]
+> You cannot easily control this, so you may fall into the void.
 
 ## 6. Spin
 Similar to the dash, it will dash in a direction however with a spin animation and health immunity.
 
 ## 7. Golden Slammer
-This ability creates 2 golden boulders on the player's sides and ejects them with 700 velocity, with them dealing damage to enemies. This is the ONLY ability that damages the enemies.
+This ability creates 2 golden boulders on the player's sides and ejects them with 700 velocity, with them dealing damage to enemies. 
+> [Fact]
+> This is the ONLY Damage dealing ability as of now.
 > [!WARNING]
 > You can only use this Ability after you've done the Golden Boulder quest.
 
 ## 8. SafeChorus
-This ability teleports you to your previous ground location (a safe location).
+This ability teleports you to your previous ground location 
+> [Confusion help]
+> A ground location means a checkpoint, For example: Portals. 
 
 ## 9. TP-Portals
 This ability has two "modes."\To place a portal, you will have to stand still and activate this ability.\To teleport to a placed portal, you would have to activate this ability while jumping.
@@ -57,6 +68,8 @@ This ability has two "modes."\To place a portal, you will have to stand still an
 This ability allows you to regenerate upto 5 hearts.
 > [!NOTE]
 > [Ring of Vitality](Baubles.md) can enhance this ability, regenerating upto 10 hearts!
+> [!WARNING]
+> This Cannot be used in Dungeons and Boss Arenas.
 
 ## 11. Whirlwind
 This ability creates watersplash particles beneath the player and launches the player upwards with 700 velocity, kind of similar to Dash but vertical.
