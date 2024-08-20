@@ -1,2 +1,0 @@
-# RLSwordigo
-RLSwordigo.
