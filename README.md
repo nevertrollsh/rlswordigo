@@ -3,7 +3,7 @@ RLSwordigo is a Mod for Swordigo aiming to give you the "Swordigo-2" experience.
 
 ## Useful Links
 - [Discord Server](https://dsc.gg/swordiforge)
-- [Mod Download](https://www.mediafire.com/file/erv9eudnqcsw1ef/RLSwordigo+[4.0].apk/file)
+- [Mod Download](https://www.mediafire.com/file/68k2vdn0ubr9e4o/RLSwordigo+4.5.apk/file)
 
 # Features
 ## [Abilities](Abilities.md)
