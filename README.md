@@ -6,7 +6,7 @@ RLSwordigo is a Mod for Swordigo aiming to give you the "Swordigo-2" experience.
 - [Mod Download](https://www.mediafire.com/file/68k2vdn0ubr9e4o/RLSwordigo+4.5.apk/file)
 
 # Features
-## [Abilities](ABILITIES.MD)
+## [Abilities](ABILITIES.md)
 The various new abilities in RLSwordigo that can be activated using Dragons Grasp.
 
 ## [Baubles](BAUBLES.MD)
