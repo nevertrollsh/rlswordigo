@@ -6,13 +6,13 @@ RLSwordigo is a Mod for Swordigo aiming to give you the "Swordigo-2" experience.
 - [Mod Download](https://www.mediafire.com/file/68k2vdn0ubr9e4o/RLSwordigo+4.5.apk/file)
 
 # Features
-## [Abilities](Abilities.md)
+## [Abilities](ABILITIES.MD)
 The various new abilities in RLSwordigo that can be activated using Dragons Grasp.
 
-## [Baubles](Baubles.md)
+## [Baubles](BAUBLES.MD)
 The various Baubles (Accessories) added by RLSwordigo that give the player new passive skills.
 
-## [Shops](Shops.md)
+## [Shops](SHOPS.MD)
 RLSwordigo heavily modifies most of the shops found in the Villages.
 
 ## [Tweaks](Tweaks.md)
