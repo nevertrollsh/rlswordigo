@@ -1,7 +1,7 @@
 # Abilities
 RLSwordigo adds a lot of abilities, upto 10 abilities can be found in RLSwordigo!
 > [!TIP]
-> You can use these abilities infinitely with no mana consumption if you have the [Magic Pendant](Baubles.MD).
+> You can use these abilities infinitely with no mana consumption if you have the [Magic Pendant](BAUBLES.MD).
 
 ## Requirements
 To use your abilities, you will need:
