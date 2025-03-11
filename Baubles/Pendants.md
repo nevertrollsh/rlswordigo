@@ -15,7 +15,7 @@ Pendants are powerful baubles that provide players with various passive abilitie
 **Description:** A mysterious pendant that grants bizarre yet powerful abilities.  
 **Effect:** Provides immunity to all anomalies and allows the wearer to see objects from another dimension seamlessly.  
 **Leveling:** Not specified.  
-**Obtained By:** Moving around in the **Backrooms** 300 times.  
+**Obtained By:** Moving across the **Backrooms** 300 times.  
 
 Each pendant has unique properties that can greatly enhance gameplay when equipped strategically.
 
