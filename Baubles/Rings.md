@@ -6,29 +6,29 @@ Rings are powerful baubles that provide players with various passive abilities. 
 
 ### Magic Ring
 - **Rarity:** Epic
-- **Description:** A legendary ring that eases magic usage.
+- **Description:** A legendary ring that eases magic usage, perfect for magic-focused players seeking passive mana regeneration.
 - **Effect:** Grants mana orbs approximately every fourteen seconds.
-- **Leveling:** Can be leveled up by purchasing the Vial Bottle.
+- **Leveling:** Can be leveled up by purchasing the Vial Bottle, enhancing its mana recovery speed.
 - **Maximum Level:** 3
 
 ### Vitality Ring
 - **Rarity:** Rare
-- **Description:** A legendary ring providing you with health every fourteen seconds.
-- **Effect:** Grants periodic health regeneration.
-- **Leveling:** Can be leveled up by purchasing the Vial Bottle.
+- **Description:** A legendary ring designed to improve survivability with steady health regeneration.
+- **Effect:** Grants periodic health regeneration every fourteen seconds.
+- **Leveling:** Can be leveled up by purchasing the Vial Bottle, improving the health recovery rate.
 - **Maximum Level:** 3
 
 ### Magnet Ring
 - **Rarity:** Common
-- **Description:** A sentient magnet that has an insane pull strength.
+- **Description:** A powerful magnetic ring ideal for players who frequently gather items from a distance.
 - **Effect:** Strong magnetic pull to attract nearby items.
-- **Leveling:** Upgradable via "Magnetic Power" levels.
+- **Leveling:** Upgradable via "Magnetic Power" levels to increase the attraction radius and strength.
 - **Maximum Level:** 10
 
 ### Radioactive Ring
 - **Rarity:** Legendary
-- **Description:** A legendary ring that is made up of the four radioactive elements.
-- **Effect:** Assists you in battles by giving enemies a radioactive effect for 3 seconds.
+- **Description:** A dangerous yet powerful ring that utilizes radioactive energy to weaken enemies.
+- **Effect:** Assists you in battles by giving enemies a radioactive effect for 3 seconds, reducing their effectiveness.
 - **Leveling:** Not specified.
 
 Each ring has unique properties that can significantly enhance gameplay when equipped strategically.
