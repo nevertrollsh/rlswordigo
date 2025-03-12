@@ -9,3 +9,5 @@ There are 3 types of baubles:
 
 The numbers next to the types mean that you can only wear n amount of that type. For example, you cannot wear 3 rings.
 
+## All Baubles
+- [Fiery Pendant](Baubles/Pendants.md#fiery-pendant)
