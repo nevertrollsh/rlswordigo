@@ -14,7 +14,7 @@ Charms are powerful baubles that provide players with various passive abilities.
 **Description:** This charm makes you as light as a feather, enhancing movement capabilities.  
 **Effect:** Improves agility and is compatible with certain abilities.  
 **Leveling:** Not specified.  
-**Obtained By:** Completing the **Parkour Challenge** in **The Plains**.  
+**Obtained By:** Completing one of the **Parkour Challenge** in **The Plains**.  
 
 Each charm offers unique effects that can be highly beneficial when used effectively.
 
