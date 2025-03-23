@@ -9,3 +9,5 @@ RLSwordigo is a mod inspired by the famous minecraft modpack, RLCraft. It offers
 Baubles are accessories that grant you various passive abilities/traits.
 
 # [Abilities](Ability.md)
+Abilities are unique powers which grant unique buffs or skills
+Abilities can be bought and configured in the secret house in cairnwood. 
