@@ -13,3 +13,6 @@ The numbers next to the types mean that you can only wear n amount of that type.
 - [Fiery Pendant](Baubles/Pendants.md#fiery-pendant)
 - [Freaky Pendant](Baubles/Pendants.md#freaky-pendant)
 - [Magic Ring](Baubles/Rings.md#magic-ring)
+- [Vitality Ring](Baubles/Rings.md#vitality-ring)
+- [Magnet Ring](Baubles/Rings.md#magnet-ring)
+- [Radioactive Ring](Baubles/Rings.md#radioactive-ring)
