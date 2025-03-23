@@ -12,3 +12,4 @@ The numbers next to the types mean that you can only wear n amount of that type.
 ## All Baubles
 - [Fiery Pendant](Baubles/Pendants.md#fiery-pendant)
 - [Freaky Pendant](Baubles/Pendants.md#freaky-pendant)
+- [Magic Ring](Baubles/Rings.md#magic-ring)
