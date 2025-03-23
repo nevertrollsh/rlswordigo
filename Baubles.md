@@ -1,5 +1,5 @@
 # Baubles
-Baubles are accesssories (usually objects that follow the player) that grant the players passive abilities/traits.
+Baubles are accessories (usually objects that follow the player) that grant the players passive abilities/traits.
 
 ## Types
 There are 3 types of baubles:
@@ -16,3 +16,5 @@ The numbers next to the types mean that you can only wear n amount of that type.
 - [Vitality Ring](Baubles/Rings.md#vitality-ring)
 - [Magnet Ring](Baubles/Rings.md#magnet-ring)
 - [Radioactive Ring](Baubles/Rings.md#radioactive-ring)
+- [Infinity Charm](Baubles/Charms.md#infinity-charm)
+- [Feather Charm](Baubles/Charms.md#feather-charm)
