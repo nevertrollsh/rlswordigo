@@ -11,6 +11,12 @@ Abilities can be used with the Dragons grasp
 ## Abilities
 Abilities are grouped into their own seperate packs, and are bought using powershards.
 
+## **Default** (Free)
+These abilities are granted upon talking to Master in the Fiery Depths when you obtain the Dragons Grasp.
+- Dash - Dashes you in the direction you're looking at.
+- Transcale - Allows you to become small, toggleable.
+- Coordinates - Shows a text bubble with Hiro's current coordinates on it.
+
 ## **Flaming Ballers** (Cost: 2)
 - **Flameboulder** – Summons a rolling fire boulder that moves forward at high speed.  
 - **Flameburst** – Releases an explosion of fire, possibly summoning an "evil pot."
