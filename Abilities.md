@@ -19,7 +19,7 @@ These abilities are granted upon talking to Master in the Fiery Depths when you 
 
 ## **Flaming Ballers** (Cost: 2)
 - **Flameboulder** – Summons a rolling fire boulder that moves forward at high speed.  
-- **Flameburst** – Releases an explosion of fire, possibly summoning an "evil pot."
+- **Flameburst** – Releases a burst of Flaming Boulders.
 
 ## **Bolt Mayhem** (Cost: 5)
 - **Rapid Bolts** – Fires 10 consecutive magic bolts in the direction the hero is facing.  
