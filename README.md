@@ -3,7 +3,7 @@ RLSwordigo is a mod inspired by the famous minecraft modpack, RLCraft. It offers
 
 # Useful Links
 - [Discord Server](https://discord.gg/Bk4Xx4THbX)
-- [Download](https://www.mediafire.com/file/z3mo80ah57k62q1/RLSwordigo+[5.2.1].apk/file)
+- [Download](https://www.mediafire.com/file/8wlb26wthkaddyd/RLSwordigo+[5.6].apk/file)
 
 # [Baubles](Baubles.md)
 Baubles are accessories that grant you various passive abilities/traits.
